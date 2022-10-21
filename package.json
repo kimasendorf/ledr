@@ -1,0 +1,24 @@
+{
+  "name": "ledr",
+  "version": "0.1.0",
+  "description": "2 window led content controller.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "watch": "nodemon --exec electron ."
+  },
+  "repository": "https://github.com/kimasendorf/ledr",
+  "keywords": [
+    "led",
+    "controller"
+  ],
+  "author": "Kim Asendorf",
+  "license": "CC0-1.0",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "electron": "^21.1.1",
+    "nodemon": "^2.0.20"
+  }
+}
